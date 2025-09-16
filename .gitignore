@@ -1,6 +1,6 @@
 *.log
 .DS_Store
-/laravel-code.md
+laravel-code.md
 .env
 .env.backup
 .env.production
