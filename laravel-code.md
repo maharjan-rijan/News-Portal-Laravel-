@@ -33,9 +33,5 @@ composer require "spatie/laravel-medialibrary"
 php artisan vendor:publish --provider="Spatie\MediaLibrary\MediaLibraryServiceProvider" --tag="medialibrary-migrations"
 <----- Queue Package ----->
 composer require spatie/laravel-sluggable
-------------------------------------------------------------------------
 
-**Admin -> \[email -> newa-news@gmail.com.np | password -> newa-news]**
-
-**User -> \[email -> rijan-maharjan@gmail.com.np | password -> rijan-maharjan]**
 
